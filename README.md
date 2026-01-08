@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Armaan+Bukhari;BS+Artificial+Intelligence+Student;At+the+Capital+University+of+Science+and+technology;Future+AI+Engineer;C%2B%2B+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Armaan+Bukhari;BS+Artificial+Intelligence+Student; At+the+Capital+University+of+Science+and+technology ;Future+AI+Engineer;C%2B%2B+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
 
 ---
