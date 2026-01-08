@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Armaan+Bukhari;BS+Artificial+Intelligence+Student;Future+AI+Engineer;C%2B%2B+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Armaan+Bukhari;BS+Artificial+Intelligence+Student;At+the+Capital+University+of+Science+and+technology;Future+AI+Engineer;C%2B%2B+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
 
 ---
@@ -52,10 +52,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Armaanatw0rk">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:armaan.bukahrii@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
